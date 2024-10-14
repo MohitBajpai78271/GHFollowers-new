@@ -1,6 +1,9 @@
  # GitHub Follower (iOS Application)
 
-The GitHub Follower app allows users to view a list of their GitHub followers, search through them, view their profiles, and check their followers or visit their GitHub page in Safari.
+## Overview
+
+Developed a search functionality that allows users to search and display GitHub followers by username,
+showcasing their avatar images and names with an optimized, user-friendly UI and other functionalities.
 
 ## Features
 
