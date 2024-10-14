@@ -12,6 +12,12 @@ showcasing their avatar images and names with an optimized, user-friendly UI and
 - **Profile View**: Clicking on a follower displays their profile details.
 - **Follower Details**: Users can check the follower's profile or visit their GitHub page in Safari.
 
+### Technology Stack
+
+- **Swift**: Frontend built using UIKit.
+- **Alamofire**: Networking library for API calls.
+- **JSON**: Handling data exchange between frontend and Github APIs.
+
 ## Screenshots
 
 | Screen            | Description                       |
