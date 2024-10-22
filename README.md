@@ -22,7 +22,7 @@ showcasing their avatar images and names with an optimized, user-friendly UI and
 
 | **Screen**            | **Description**                       |
 |-----------------------|---------------------------------------|
-| <img src="https://github.com/user-attachments/assets/f71e68d8-46c0-49c6-9619-a7c0767c6f62" width="400"/> | **Search Github UserName**: Enter the respective username of the person and request followers.<br> - **Feature**: Search functionality with user validation. |
+| <img src="https://github.com/user-attachments/assets/f71e68d8-46c0-49c6-9619-a7c0767c6f62" width="500"/> | **Search Github UserName**: Enter the respective username of the person and request followers.<br> - **Feature**: Search functionality with user validation. |
 | <img src="https://github.com/user-attachments/assets/9b406a34-6c73-44ce-849a-4bb893e704e0" width="400"/> | **Empty State View**: Screen view in case no followers exist for the entered username.<br> - **Feature**: Clean design with informative empty state UI. |
 | <img src="https://github.com/user-attachments/assets/3dc745e3-777f-4a19-aca8-1b928ccd6dae" width="400"/> | **List of Followers**: Returns a list of followers in a table view format with a search controller to filter based on follower name.<br> - **Feature**: Searchable list with smooth UI updates. |
 | <img src="https://github.com/user-attachments/assets/518d34dc-a34b-4d2e-b80d-69b790ef5d22" width="400"/> | **User Profile Section**: Shows basic user details like name, bio, location, avatar image, followers, gists, repos, and buttons for GitHub profile and to view followers.<br> - **Feature**: Detailed user profile with external links. |
